@@ -1,7 +1,7 @@
 {
   "name": "nemo",
   "version": "1.0.0",
-  "description": "Mnemosyne",
+  "description": "Mnemosyne aka nemo, clio-rpg client built using Next.js",
   "repository": "https://github.com/clio-rpg/nemo",
   "license": "MIT",
   "dependencies": {
